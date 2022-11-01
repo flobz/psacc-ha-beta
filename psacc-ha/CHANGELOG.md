@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.5] - 2022-01-11
+### Added
+- feat: add DS7 Crossback E-Tense 225 to car_models.yml by [@proximagr](https://github.com/proximagr) in [#379](https://github.com/flobz/psa_car_controller/pull/379)
+- feat: update to last psa apk structure by [@flobz](https://github.com/flobz) in [#419](https://github.com/flobz/psa_car_controller/pull/419)
+- feat: add last update to control pannel by flobz in [#419](https://github.com/flobz/psa_car_controller/pull/419)
+
+### Changed
+- Update car_models.yml by [@matty87a](https://github.com/matty87a) in [#387](https://github.com/flobz/psa_car_controller/pull/387)
+- Fix some charge control issues by [@SharkEzz](https://github.com/SharkEzz) in [#397](https://github.com/flobz/psa_car_controller/pull/397)
+- Update car_models.yml by [@ihelland](https://github.com/ihelland) in [#401](https://github.com/flobz/psa_car_controller/pull/401)
+- Update Install.md by [@kurim](https://github.com/kurim) in [#417](https://github.com/flobz/psa_car_controller/pull/417)
+
+### Removed
+- Remove old link for a deprecated video by [@vlycop](https://github.com/vlycop) in [#382](https://github.com/flobz/psa_car_controller/pull/382)
+
+### Contributors
+- @proximagr made their first contribution in [#397](https://github.com/flobz/psa_car_controller/pull/397)
+- @vlycop made their first contribution in [#382](https://github.com/flobz/psa_car_controller/pull/382)
+- @SharkEzz made their first contribution in [#397](https://github.com/flobz/psa_car_controller/pull/397)
+- @ihelland made their first contribution in [#401](https://github.com/flobz/psa_car_controller/pull/401)
+- @kurim made their first contribution in [#417](https://github.com/flobz/psa_car_controller/pull/417)
+
 ## [3.0.4] - 2022-06-18
 ### Added
 - feat: add Peugeot e-Rifter by [@Espressoshooter](https://github.com/Espressoshooter) in [#361](https://github.com/flobz/psa_car_controller/pull/361)
@@ -16,7 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - @Espressoshooter made their first contribution in [#361](https://github.com/flobz/psa_car_controller/pull/361)
 - @gino54 made their first contribution in [#373](https://github.com/flobz/psa_car_controller/pull/373)
 - @rchiileea made their first contribution in [#378](https://github.com/flobz/psa_car_controller/pull/378)
-- 
+
 Full Changelog: [v3.0.3...v3.0.4](https://github.com/flobz/psa_car_controller/compare/v3.0.3...v3.0.4)
 
 ## [3.0.3] - 2022-05-01
